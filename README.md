@@ -14,11 +14,8 @@ In this repository, you will find a collection of backend JavaScript projects. T
 
 ## Projects
 
-Here are some of the projects you can find in this repository:
+The projects done can be found on the above directories they address challenges and tasks in javascript.:
 
-1. Project 1: [0x00. ES6 Basics](./project1)
-
-2. Project 2: [0x00. Pascal's Triangle](./project2)
 ...
 
 ## Getting Started
