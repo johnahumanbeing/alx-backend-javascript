@@ -26,7 +26,7 @@ In this repository, you will find a collection of backend JavaScript projects. T
 
 ## Projects
 
-The projects done can be found on the above directories they address challenges and tasks in javascript.:
+The projects done can be found on the below directories they address challenges and tasks in javascript.:
 - #### [0x00-ES6_basic](0x00-ES6_basic)
 - #### [0x01. ES6 Promises](0x01-ES6_promise)
 - #### [0x02. ES6 classes](0x02-ES6_classes)
