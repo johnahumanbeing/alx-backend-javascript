@@ -48,6 +48,9 @@ Click to show/hide file contents
 and…
 Don’t forget to run `$ npm install` when you have the `package.json`
 
+# NB
+If `npm install` fails use `npm install --legacy-peer-deps`
+
 ## Tasks
 0. Function `getListStudents` that returns an array of student objects with three attributes: `id`, `firstName` and `location`.
     - File: [0-get_list_students.js](0-get_list_students.js)
