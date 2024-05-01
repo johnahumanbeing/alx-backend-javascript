@@ -7,15 +7,15 @@ interface Student {
 
 const studentOne: Student = {
     firstName: 'John',
-    lastName: 'Doe',
+    lastName: 'Wayne',
     age: 20,
-    location: 'California'
+    location: 'Kenya'
 }
 const studentTwo: Student = {
-    firstName: 'Jane',
-    lastName: 'Doe',
+    firstName: 'Imani',
+    lastName: 'Alfred',
     age: 21,
-    location: 'Silicon Valley'
+    location: 'Nairobi, Kenya'
 }
 const students: Student[] = [studentOne, studentTwo];
 const table = document.createElement('table');
