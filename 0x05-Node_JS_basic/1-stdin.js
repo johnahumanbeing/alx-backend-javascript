@@ -1,8 +1,8 @@
 /**
  * A script that reads and processes user input using the `stdin` object.
  * - promts the user to input name
- *  - reads the input from the user
- *  -displays the input back to the user
+ * - reads the input from the user
+ * -displays the input back to the user
  * - ends by displaying a message before closing
  */
 
