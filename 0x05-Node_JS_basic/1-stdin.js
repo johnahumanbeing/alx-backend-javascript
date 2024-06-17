@@ -16,9 +16,8 @@ stdin.on('readable', () => {
   if (name) {
     stdout.write(`Your name is: ${name}`);
   }
-}
-);
+});
+
 stdin.on('end', () => {
   stdout.write('This important software is now closing\n');
-}
-);
+});
