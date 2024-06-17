@@ -5,7 +5,7 @@
  * - When the URL path is /, it should display Hello Holberton School!
  * in the page body
  * - When the URL path is /students, it should display
- * "this is the list of our students"  followed by the same content as 
+ * "this is the list of our students"  followed by the same content as
  * the file 3-read_file_async.js (with and without the database
  */
 const http = require('http');
