@@ -20,6 +20,20 @@
 - Using ES6 with Node JS with Babel-node
 - Using `Nodemon`
 
+#### provided files
+
+[database.csv](database.csv)
+
+[package.json](package.json)
+
+[babel.config.js](babel.config.js)
+
+[.eslintc.js](.eslintrc.js)
+
+## NOTE
+when you have the `package.json` (provided) don't forget to run `npm install`
+
+
 ## Tasks
 0. Function `displayMessage` that print in `stdout` a string argument.
     - File: [0-console.js](0-console.js)
